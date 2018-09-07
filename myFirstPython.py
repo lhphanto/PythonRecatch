@@ -1,6 +1,6 @@
 import numpy as np
 
-y = 3.5
+y = 4.5
 
 print(type(y))
 
